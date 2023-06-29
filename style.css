@@ -1,0 +1,28 @@
+h1 {
+    color: #2D4356;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #E7CEA6;
+    text-align: center;
+    
+}
+li {
+    color: #0A6EBD;
+    font-size: 30px;
+    font-family: 'Agdasima', sans-serif;
+    background-color: rgb(226, 170, 201);
+    text-align: center;
+   
+}
+    
+img {
+    height: 300px;  
+    display: block; 
+    margin: 0 auto;
+}
+
+body {
+    background-image: url('/asset/background.jpg');
+}
+
+
+    
